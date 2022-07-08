@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatdItemAccount Test should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-containerSelected-2 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <button
+      class="MuiButtonBase-root MuiCardActionArea-root"
+      tabindex="0"
+      title="action"
+      type="button"
+    >
+      <div
+        class="MuiCardContent-root"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+        >
+          <span
+            title="nombre"
+          >
+            Cuenta de ahorro
+             con referencia:
+          </span>
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body1"
+        >
+          <span
+            title="numero"
+          >
+            234vf5
+          </span>
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body2"
+        >
+          <span
+            title="saldo"
+          >
+             Saldo disponible: $
+            50000
+          </span>
+           
+        </p>
+      </div>
+      <div
+        class="MuiCardActions-root makeStyles-position-3 MuiCardActions-spacing"
+      >
+        <a
+          class="makeStyles-linkSelected-5"
+          href="#"
+        >
+          Ver movimientos
+        </a>
+      </div>
+      <span
+        class="MuiCardActionArea-focusHighlight"
+      />
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;

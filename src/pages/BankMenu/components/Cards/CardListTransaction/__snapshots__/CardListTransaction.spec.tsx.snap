@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardListTransaction Test should match snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardContent-root"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+      >
+        2 de marzo de 2022
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body1"
+      >
+        Transferencia desde 
+        Cuenta de ahorro
+         
+      </p>
+      <p
+        class="MuiTypography-root makeStyles-destino-2 MuiTypography-body2"
+      >
+        $ 
+        1000
+      </p>
+    </div>
+  </div>
+</div>
+`;
